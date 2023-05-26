@@ -1,5 +1,6 @@
 # ML Model Implementation
- 
+ #### Update: I have uploaded all machine learning model files made till now. 
+#### Data Visualisation file shows different types of graphs on which data can be shown.
 I have implemented three models with sample datasets.
 1. Linear Regression - It plots two graphs one for training and one for test dataset.
 2. Logistic Regression - It plots a confusion matrix representing its classification.
